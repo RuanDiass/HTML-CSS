@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+} 
+h1{
+    text-align: center;
+    color: white;
+    font: normal 50px Arial;
+}
+div.top{
+    text-align: center;
+}
+div.button{
+    text-align: center;
+}
+img{
+    width: 300px;
+}
